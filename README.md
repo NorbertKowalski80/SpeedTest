@@ -1,4 +1,3 @@
-# SpeedTest
 # Speed Test GUI
 
 Speed Test GUI is a Python-based graphical application that allows users to measure their internet speed, including download and upload speeds, as well as ping, using the `speedtest` library and a `ping` utility.
